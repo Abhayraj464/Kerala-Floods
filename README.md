@@ -11,10 +11,10 @@ Data analytics plays a crucial role in flood prediction and management by using 
 
 ## Project Components
 
-Data Souce : CSV file
-Notebook : Jupyter Notebook
-Libraries used for Data cleaning, Preprocessing, EDA and Machine leraing model : Pandas, Numpy, Seaborn, Matplotlib, Scikit Learn
-Dashboard : Power BI
+- Data Souce : CSV file
+- Notebook : Jupyter Notebook
+- Libraries used for Data cleaning, Preprocessing, EDA and Machine leraing model : Pandas, Numpy, Seaborn, Matplotlib, Scikit Learn
+- Dashboard : Power BI
 
 
 ## Key Findings
